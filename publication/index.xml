@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Academic</title>
+    <link>https://wenqi-cui.github.io/publication/</link>
+      <atom:link href="https://wenqi-cui.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Mar 2021 08:30:41 +0000</lastBuildDate>
+    <image>
+      <url>https://wenqi-cui.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://wenqi-cui.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Lyapunov-Regularized Reinforcement Learning for Power System Transient   Stability</title>
+      <link>https://wenqi-cui.github.io/publication/lyapunov-regularized-reinforcement-learning-for-power-system-transient-stability/index-1/</link>
+      <pubDate>Fri, 05 Mar 2021 08:30:41 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/lyapunov-regularized-reinforcement-learning-for-power-system-transient-stability/index-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning for Optimal Frequency Control: A Lyapunov Approach</title>
+      <link>https://wenqi-cui.github.io/publication/example/</link>
+      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-state operating reserve model of aggregate thermostatically-controlled-loads for power system short-term reliability evaluation</title>
+      <link>https://wenqi-cui.github.io/publication/multi-state-operating-reserve-model-of-aggregate-thermostatically-controlled-loads-for-power-system-short-term-reliability-evaluation/</link>
+      <pubDate>Thu, 02 May 2019 05:28:00 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/multi-state-operating-reserve-model-of-aggregate-thermostatically-controlled-loads-for-power-system-short-term-reliability-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation and sequential dispatch of operating reserve provided by air conditioners considering lead–lag rebound effect</title>
+      <link>https://wenqi-cui.github.io/publication/evaluation-and-sequential-dispatch-of-operating-reserve-provided-by-air-conditioners-considering-leadlag-rebound-effect/</link>
+      <pubDate>Tue, 06 Nov 2018 05:10:27 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/evaluation-and-sequential-dispatch-of-operating-reserve-provided-by-air-conditioners-considering-leadlag-rebound-effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of capacity incentive and energy compensation for demand response programs</title>
+      <link>https://wenqi-cui.github.io/publication/design-of-capacity-incentive-and-energy-compensation-for-demand-response-programs/</link>
+      <pubDate>Fri, 02 Feb 2018 06:34:22 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/design-of-capacity-incentive-and-energy-compensation-for-demand-response-programs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-stage payback model for the assessment of curtailment services provided by air conditioners</title>
+      <link>https://wenqi-cui.github.io/publication/two-stage-payback-model-for-the-assessment-of-curtailment-services-provided-by-air-conditioners/</link>
+      <pubDate>Sat, 02 Dec 2017 06:32:34 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/two-stage-payback-model-for-the-assessment-of-curtailment-services-provided-by-air-conditioners/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

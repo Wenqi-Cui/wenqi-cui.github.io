@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Academic</title>
+    <link>https://wenqi-cui.github.io/publication-type/2/</link>
+      <atom:link href="https://wenqi-cui.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 May 2019 05:28:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wenqi-cui.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://wenqi-cui.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Multi-state operating reserve model of aggregate thermostatically-controlled-loads for power system short-term reliability evaluation</title>
+      <link>https://wenqi-cui.github.io/publication/multi-state-operating-reserve-model-of-aggregate-thermostatically-controlled-loads-for-power-system-short-term-reliability-evaluation/</link>
+      <pubDate>Thu, 02 May 2019 05:28:00 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/multi-state-operating-reserve-model-of-aggregate-thermostatically-controlled-loads-for-power-system-short-term-reliability-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation and sequential dispatch of operating reserve provided by air conditioners considering lead–lag rebound effect</title>
+      <link>https://wenqi-cui.github.io/publication/evaluation-and-sequential-dispatch-of-operating-reserve-provided-by-air-conditioners-considering-leadlag-rebound-effect/</link>
+      <pubDate>Tue, 06 Nov 2018 05:10:27 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/evaluation-and-sequential-dispatch-of-operating-reserve-provided-by-air-conditioners-considering-leadlag-rebound-effect/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

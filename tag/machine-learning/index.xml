@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Academic</title>
+    <link>https://wenqi-cui.github.io/tag/machine-learning/</link>
+      <atom:link href="https://wenqi-cui.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 May 2021 08:00:48 +0000</lastBuildDate>
+    <image>
+      <url>https://wenqi-cui.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Machine Learning</title>
+      <link>https://wenqi-cui.github.io/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Lyapunov-Regularized Reinforcement Learning for Power System Transient Stability</title>
+      <link>https://wenqi-cui.github.io/project/lyapunov-regularized-reinforcement-learning-for-power-system-transient-stability/</link>
+      <pubDate>Thu, 06 May 2021 08:00:48 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/project/lyapunov-regularized-reinforcement-learning-for-power-system-transient-stability/</guid>
+      <description>&lt;p&gt;Transient stability of power systems is becoming increasingly important because of the growing integration of renewable resources. These resources lead to a reduction in mechanical inertia but also provide increased flexibility in frequency responses. Namely, their power electronic interfaces can implement almost arbitrary control laws. To design these controllers, reinforcement learning (RL) has emerged as a powerful method in searching for optimal non-linear control policy parameterized by neural networks.&lt;/p&gt;
+&lt;p&gt;A key challenge is to enforce that a learned controller must be stabilizing. This paper proposes a Lyapunov regularized RL approach for optimal frequency control for transient stability in lossy networks. Because the lack of an analytical Lyapunov function, we learn a Lyapunov function parameterized by a neural network. The losses are specially designed with respect to the physical power system. The learned neural Lyapunov function is then utilized as a regularization to train the neural network controller by penalizing actions that violate the Lyapunov conditions. Case study shows that introducing the Lyapunov regularization enables the controller to be stabilizing and achieve smaller losses.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning for Optimal Frequency Control - A Lyapunov Approach</title>
+      <link>https://wenqi-cui.github.io/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/project/example/</guid>
+      <description>&lt;p&gt;The increase in penetration of inverter-based resources provides us with more flexibility in frequency regulation compared to conventional linear droop controllers. Using their power electronic interfaces, inverter-based resources can realize almost arbitrary responses to frequency changes. Reinforcement learning (RL) has emerged as a popular method to design these nonlinear controllers to optimize a host of objective functions.&lt;/p&gt;
+&lt;p&gt;The key challenge with RL-based approaches is how to enforce the constraint that the learned controller should be stabilizing. In addition, training these controllers is nontrivial because of the time-coupled dynamics of power systems. In this paper, we propose to explicitly engineer the structure of neural network-based controllers such that they guarantee system stability by design. This is done by constraining the network structures using a well-known Lyapunov function. A recurrent RL architecture is used to efficiently train the controllers. The resulting controllers only use local information and outperform linear droop as well as controllers trained using existing state-of-the-art learning approaches.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
