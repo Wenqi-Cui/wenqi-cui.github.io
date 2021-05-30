@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/Wenqi-Cui/wenqi-cui.github.io.git
+	branch = master
