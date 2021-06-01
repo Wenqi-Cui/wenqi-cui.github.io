@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CEI | Academic</title>
+    <link>https://wenqi-cui.github.io/tag/cei/</link>
+      <atom:link href="https://wenqi-cui.github.io/tag/cei/index.xml" rel="self" type="application/rss+xml" />
+    <description>CEI</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Mar 2021 08:00:48 +0000</lastBuildDate>
+    <image>
+      <url>https://wenqi-cui.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>CEI</title>
+      <link>https://wenqi-cui.github.io/tag/cei/</link>
+    </image>
+    
+    <item>
+      <title>Green Seattle - Prediction and Visualization</title>
+      <link>https://wenqi-cui.github.io/project/greem-seattle/</link>
+      <pubDate>Thu, 18 Mar 2021 08:00:48 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/project/greem-seattle/</guid>
+      <description>&lt;p&gt;Green Seattle is an inter-disciplinary project in Clearn Energy Insitute (CEI) collaborated by seven students majoring in Chemical Sciences, 
+Political Science and Electrical Engineering. The first part of Green Seattle is focused on predicting Seattle Traffic Trends 
+(codes are publicly available &lt;a href=&#34;https://github.com/Greening-Seattle/Prediction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;), 
+while the second is focused on Visualizing Seattle Traffic Trends, 
+as well as outputs of a regression model seeking to predict future traffic patterns based on user inputs
+(codes are publicly available &lt;a href=&#34;https://github.com/Greening-Seattle/Visualization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;). 
+I am responsible for implementing machine learning framework for predicting Traffic Trends using Tensorflow 2.0,
+and visualizing the model in TensorBoard.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

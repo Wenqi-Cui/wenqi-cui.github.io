@@ -43,6 +43,22 @@
     </item>
     
     <item>
+      <title>Green Seattle - Prediction and Visualization</title>
+      <link>https://wenqi-cui.github.io/project/greem-seattle/</link>
+      <pubDate>Thu, 18 Mar 2021 08:00:48 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/project/greem-seattle/</guid>
+      <description>&lt;p&gt;Green Seattle is an inter-disciplinary project in Clearn Energy Insitute (CEI) collaborated by seven students majoring in Chemical Sciences, 
+Political Science and Electrical Engineering. The first part of Green Seattle is focused on predicting Seattle Traffic Trends 
+(codes are publicly available &lt;a href=&#34;https://github.com/Greening-Seattle/Prediction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;), 
+while the second is focused on Visualizing Seattle Traffic Trends, 
+as well as outputs of a regression model seeking to predict future traffic patterns based on user inputs
+(codes are publicly available &lt;a href=&#34;https://github.com/Greening-Seattle/Visualization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;). 
+I am responsible for implementing machine learning framework for predicting Traffic Trends using Tensorflow 2.0,
+and visualizing the model in TensorBoard.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Lyapunov-Regularized Reinforcement Learning for Power System Transient   Stability</title>
       <link>https://wenqi-cui.github.io/publication/lyapunov-regularized-reinforcement-learning-for-power-system-transient-stability/index-1/</link>
       <pubDate>Fri, 05 Mar 2021 08:30:41 +0000</pubDate>
