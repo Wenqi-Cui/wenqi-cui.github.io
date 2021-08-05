@@ -7,10 +7,24 @@
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 May 2021 08:00:48 +0000</lastBuildDate>
     <image>
-      <url>https://wenqi-cui.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://wenqi-cui.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://wenqi-cui.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Few-Shot Machine Learning Classification of Electron Microscopy Data</title>
+      <link>https://wenqi-cui.github.io/project/few-shot/</link>
+      <pubDate>Thu, 06 May 2021 08:00:48 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/project/few-shot/</guid>
+      <description>&lt;p&gt;This is a UW-DIRECT capstone project cooperated with Pacific Northwest National Laboratory (PNNL) and mentored by Marjolein Oostrom, Sarah Akers and Dr. Steven R. Spurgeon.
+We proposed a few-Shot machine learning algorithum for classification of
+electron microscopy images and implemented a graphical-user interface for it.
+I am responsible for implementing training loop for few-shot machine learning analysis of electron microscope data. 
+Transfer learning is utilized to improvement performance of resent on feature extraction of microscope images. The abstract is as follows:&lt;/p&gt;
+&lt;p&gt;The recent growth in data volumes produced by modern electron microscopes requires rapid, scalable, and flexible approaches to image segmentation and analysis. Few-shot machine learning, which can richly classify images from a handful of user-provided examples, is a promising route to high-throughput analysis. However, current command-line implementations of such approaches can be slow and unintuitive to use, lacking the real-time feedback necessary to perform effective classification. Here we report on the development of a Python-based graphical user interface that enables end users to easily conduct and visualize the output of few-shot learning models. This interface is lightweight and can be hosted locally or on the web, providing the opportunity to reproducibly conduct, share, and crowd-source few-shot analyses.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Lyapunov-Regularized Reinforcement Learning for Power System Transient Stability</title>

@@ -2,10 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wenqi-cui.github.io/publication-type/3/</loc>
+    <lastmod>2021-07-21T08:30:41+00:00</lastmod>
+  </url><url>
     <loc>https://wenqi-cui.github.io/</loc>
+    <lastmod>2021-07-21T08:30:41+00:00</lastmod>
+  </url><url>
+    <loc>https://wenqi-cui.github.io/publication/few-shot/index-1/</loc>
+    <lastmod>2021-07-21T08:30:41+00:00</lastmod>
+  </url><url>
+    <loc>https://wenqi-cui.github.io/publication_types/</loc>
+    <lastmod>2021-07-21T08:30:41+00:00</lastmod>
+  </url><url>
+    <loc>https://wenqi-cui.github.io/publication/</loc>
+    <lastmod>2021-07-21T08:30:41+00:00</lastmod>
+  </url><url>
+    <loc>https://wenqi-cui.github.io/tag/cei/</loc>
     <lastmod>2021-05-06T08:00:48+00:00</lastmod>
   </url><url>
     <loc>https://wenqi-cui.github.io/tag/energy-systems/</loc>
+    <lastmod>2021-05-06T08:00:48+00:00</lastmod>
+  </url><url>
+    <loc>https://wenqi-cui.github.io/project/few-shot/</loc>
     <lastmod>2021-05-06T08:00:48+00:00</lastmod>
   </url><url>
     <loc>https://wenqi-cui.github.io/project/lyapunov-regularized-reinforcement-learning-for-power-system-transient-stability/</loc>
@@ -20,22 +38,10 @@
     <loc>https://wenqi-cui.github.io/tags/</loc>
     <lastmod>2021-05-06T08:00:48+00:00</lastmod>
   </url><url>
-    <loc>https://wenqi-cui.github.io/tag/cei/</loc>
-    <lastmod>2021-03-18T08:00:48+00:00</lastmod>
-  </url><url>
     <loc>https://wenqi-cui.github.io/project/greem-seattle/</loc>
     <lastmod>2021-03-18T08:00:48+00:00</lastmod>
   </url><url>
-    <loc>https://wenqi-cui.github.io/publication-type/3/</loc>
-    <lastmod>2021-03-05T08:30:41+00:00</lastmod>
-  </url><url>
     <loc>https://wenqi-cui.github.io/publication/lyapunov-regularized-reinforcement-learning-for-power-system-transient-stability/index-1/</loc>
-    <lastmod>2021-03-05T08:30:41+00:00</lastmod>
-  </url><url>
-    <loc>https://wenqi-cui.github.io/publication_types/</loc>
-    <lastmod>2021-03-05T08:30:41+00:00</lastmod>
-  </url><url>
-    <loc>https://wenqi-cui.github.io/publication/</loc>
     <lastmod>2021-03-05T08:30:41+00:00</lastmod>
   </url><url>
     <loc>https://wenqi-cui.github.io/tag/academic/</loc>

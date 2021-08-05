@@ -5,12 +5,20 @@
     <link>https://wenqi-cui.github.io/publication/</link>
       <atom:link href="https://wenqi-cui.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Mar 2021 08:30:41 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Jul 2021 08:30:41 +0000</lastBuildDate>
     <image>
-      <url>https://wenqi-cui.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://wenqi-cui.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://wenqi-cui.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Design of a Graphical User Interface for Few-Shot Machine Learning Classification of Electron Microscopy Data</title>
+      <link>https://wenqi-cui.github.io/publication/few-shot/index-1/</link>
+      <pubDate>Wed, 21 Jul 2021 08:30:41 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/few-shot/index-1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lyapunov-Regularized Reinforcement Learning for Power System Transient   Stability</title>
