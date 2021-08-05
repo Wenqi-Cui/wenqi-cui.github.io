@@ -5,12 +5,20 @@
     <link>https://wenqi-cui.github.io/</link>
       <atom:link href="https://wenqi-cui.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Jul 2021 08:30:41 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 Jul 2021 05:10:27 +0000</lastBuildDate>
     <image>
       <url>https://wenqi-cui.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
       <link>https://wenqi-cui.github.io/</link>
     </image>
+    
+    <item>
+      <title>Review of Market Power Assessment and Mitigation In the Reshaping of Power Systems: State-of-Art Status and Potential Research Studies</title>
+      <link>https://wenqi-cui.github.io/publication/market-power/</link>
+      <pubDate>Sun, 25 Jul 2021 05:10:27 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/market-power/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Design of a Graphical User Interface for Few-Shot Machine Learning Classification of Electron Microscopy Data</title>

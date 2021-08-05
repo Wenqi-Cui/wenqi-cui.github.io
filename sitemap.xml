@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wenqi-cui.github.io/publication-type/2/</loc>
+    <lastmod>2021-07-25T05:10:27+00:00</lastmod>
+  </url><url>
+    <loc>https://wenqi-cui.github.io/</loc>
+    <lastmod>2021-07-25T05:10:27+00:00</lastmod>
+  </url><url>
+    <loc>https://wenqi-cui.github.io/publication_types/</loc>
+    <lastmod>2021-07-25T05:10:27+00:00</lastmod>
+  </url><url>
+    <loc>https://wenqi-cui.github.io/publication/</loc>
+    <lastmod>2021-07-25T05:10:27+00:00</lastmod>
+  </url><url>
+    <loc>https://wenqi-cui.github.io/publication/market-power/</loc>
+    <lastmod>2021-07-25T05:10:27+00:00</lastmod>
+  </url><url>
     <loc>https://wenqi-cui.github.io/publication-type/3/</loc>
     <lastmod>2021-07-21T08:30:41+00:00</lastmod>
   </url><url>
-    <loc>https://wenqi-cui.github.io/</loc>
-    <lastmod>2021-07-21T08:30:41+00:00</lastmod>
-  </url><url>
     <loc>https://wenqi-cui.github.io/publication/few-shot/index-1/</loc>
-    <lastmod>2021-07-21T08:30:41+00:00</lastmod>
-  </url><url>
-    <loc>https://wenqi-cui.github.io/publication_types/</loc>
-    <lastmod>2021-07-21T08:30:41+00:00</lastmod>
-  </url><url>
-    <loc>https://wenqi-cui.github.io/publication/</loc>
     <lastmod>2021-07-21T08:30:41+00:00</lastmod>
   </url><url>
     <loc>https://wenqi-cui.github.io/tag/cei/</loc>
@@ -67,9 +73,6 @@
   </url><url>
     <loc>https://wenqi-cui.github.io/publication/example/</loc>
     <lastmod>2020-09-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wenqi-cui.github.io/publication-type/2/</loc>
-    <lastmod>2019-05-02T05:28:00+00:00</lastmod>
   </url><url>
     <loc>https://wenqi-cui.github.io/publication/multi-state-operating-reserve-model-of-aggregate-thermostatically-controlled-loads-for-power-system-short-term-reliability-evaluation/</loc>
     <lastmod>2019-05-02T05:28:00+00:00</lastmod>
