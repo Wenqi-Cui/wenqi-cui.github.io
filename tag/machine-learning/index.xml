@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Machine Learning | Academic</title>
+    <title>Machine Learning | Wenqi Cui</title>
     <link>https://wenqi-cui.github.io/tag/machine-learning/</link>
       <atom:link href="https://wenqi-cui.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 May 2021 08:00:48 +0000</lastBuildDate>
     <image>
-      <url>https://wenqi-cui.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://wenqi-cui.github.io/media/icon_hud58c95a75c7ebfda2aff7ad5a2db624a_15115_512x512_fill_lanczos_center_3.png</url>
       <title>Machine Learning</title>
       <link>https://wenqi-cui.github.io/tag/machine-learning/</link>
     </image>

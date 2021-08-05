@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Wenqi Cui</title>
     <link>https://wenqi-cui.github.io/</link>
       <atom:link href="https://wenqi-cui.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <description>Wenqi Cui</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 Jul 2021 05:10:27 +0000</lastBuildDate>
     <image>
-      <url>https://wenqi-cui.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
+      <url>https://wenqi-cui.github.io/media/icon_hud58c95a75c7ebfda2aff7ad5a2db624a_15115_512x512_fill_lanczos_center_3.png</url>
+      <title>Wenqi Cui</title>
       <link>https://wenqi-cui.github.io/</link>
     </image>
     
@@ -156,7 +156,7 @@ and visualizing the model in TensorBoard.&lt;/p&gt;
     <item>
       <title>Reinforcement Learning for Optimal Frequency Control: A Lyapunov Approach</title>
       <link>https://wenqi-cui.github.io/publication/example/</link>
-      <pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://wenqi-cui.github.io/publication/example/</guid>
       <description></description>
     </item>
