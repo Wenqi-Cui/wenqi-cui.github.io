@@ -5,12 +5,30 @@
     <link>https://wenqi-cui.github.io/</link>
       <atom:link href="https://wenqi-cui.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Wenqi Cui</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 Jul 2021 05:10:27 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 03 Oct 2021 08:30:41 +0000</lastBuildDate>
     <image>
       <url>https://wenqi-cui.github.io/media/icon_hud58c95a75c7ebfda2aff7ad5a2db624a_15115_512x512_fill_lanczos_center_3.png</url>
       <title>Wenqi Cui</title>
       <link>https://wenqi-cui.github.io/</link>
     </image>
+    
+    <item>
+      <title>Decentralized Safe Reinforcement Learning for Voltage Control</title>
+      <link>https://wenqi-cui.github.io/publication/safe-rl-voltage-pscc/index-1/</link>
+      <pubDate>Sun, 03 Oct 2021 08:30:41 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/safe-rl-voltage-pscc/index-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decentralized Safe Reinforcement Learning for Voltage Control</title>
+      <link>https://wenqi-cui.github.io/project/safe-rl-voltage-pscc/</link>
+      <pubDate>Sun, 03 Oct 2021 08:00:48 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/project/safe-rl-voltage-pscc/</guid>
+      <description>&lt;p&gt;Inverter-based distributed energy resources provide the possibility for fast time-scale voltage control by quickly adjusting their reactive power. The power-electronic interfaces allow these resources to realize almost arbitrary control law, but designing these decentralized controllers is nontrivial. Reinforcement learning (RL) approaches are becoming increasingly popular to search for policy parameterized by neural networks. It is difficult, however, to enforce that the learned controllers are safe, in the sense that they may introduce instabilities into the system.&lt;/p&gt;
+&lt;p&gt;This paper proposes a safe learning approach for voltage control. We prove that the system is guaranteed to be exponentially stable if each controller satisfies certain Lipschitz constraints. The set of Lipschitz bound is optimized to enlarge the search space for neural network controllers. We explicitly engineer the structure of neural network controllers such that they satisfy the Lipschitz constraints by design. A decentralized RL framework is constructed to train local neural network controller at each bus in a model-free setting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Review of Market Power Assessment and Mitigation In the Reshaping of Power Systems: State-of-Art Status and Potential Research Studies</title>
