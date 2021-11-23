@@ -5,12 +5,22 @@
     <link>https://wenqi-cui.github.io/project/</link>
       <atom:link href="https://wenqi-cui.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 03 Oct 2021 08:00:48 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 08:00:48 +0000</lastBuildDate>
     <image>
       <url>https://wenqi-cui.github.io/media/icon_hud58c95a75c7ebfda2aff7ad5a2db624a_15115_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://wenqi-cui.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Predicting Power System Dynamics and Transients: A Frequency Domain Approach</title>
+      <link>https://wenqi-cui.github.io/project/fourier-transient/</link>
+      <pubDate>Mon, 01 Nov 2021 08:00:48 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/project/fourier-transient/</guid>
+      <description>&lt;p&gt;The dynamics of power grids are governed by a large number of nonlinear ordinary differential equations (ODEs). To safely operate the system, operators need to check that the states described by this set of ODEs stay within prescribed limits after various faults. Limited by the size and stiffness of the ODEs, current numerical integration techniques are often too slow to be useful in real-time or large-scale resource allocation problems. In addition, detailed system parameters are often not exactly known. Machine learning approaches have been proposed to reduce the computational efforts, but existing methods generally suffer from overfitting and failures to predict unstable behaviors.&lt;/p&gt;
+&lt;p&gt;This paper proposes a novel framework for power system dynamic predictions by learning in the frequency domain. The intuition is that although the system behavior is complex in the time domain, there are relatively few dominate modes in the frequency domain. Therefore, we learn to predict by constructing neural networks with Fourier transform and filtering layers. System topology and fault information are encoded by taking a multi-dimensional Fourier transform, allowing us to leverage the fact that the trajectories are sparse both in time and spatial (across different buses) frequencies. We show that the proposed approach does not need detailed system parameters, speeds up prediction computations by orders of magnitude and is highly accurate for different fault types.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Decentralized Safe Reinforcement Learning for Voltage Control</title>
