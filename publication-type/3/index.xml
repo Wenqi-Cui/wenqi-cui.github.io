@@ -5,12 +5,20 @@
     <link>https://wenqi-cui.github.io/publication-type/3/</link>
       <atom:link href="https://wenqi-cui.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 08:30:41 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 08:30:41 +0000</lastBuildDate>
     <image>
       <url>https://wenqi-cui.github.io/media/icon_hud58c95a75c7ebfda2aff7ad5a2db624a_15115_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
       <link>https://wenqi-cui.github.io/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>Structured Neural-PI Control for Networked Systems: Stability and Steady-State Optimality Guarantees</title>
+      <link>https://wenqi-cui.github.io/publication/neural-pi/index-1/</link>
+      <pubDate>Wed, 01 Jun 2022 08:30:41 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/neural-pi/index-1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Predicting Power System Dynamics and Transients: A Frequency Domain Approach</title>
@@ -21,26 +29,10 @@
     </item>
     
     <item>
-      <title>Decentralized Safe Reinforcement Learning for Voltage Control</title>
-      <link>https://wenqi-cui.github.io/publication/safe-rl-voltage-pscc/index-1/</link>
-      <pubDate>Sun, 03 Oct 2021 08:30:41 +0000</pubDate>
-      <guid>https://wenqi-cui.github.io/publication/safe-rl-voltage-pscc/index-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Design of a Graphical User Interface for Few-Shot Machine Learning Classification of Electron Microscopy Data</title>
       <link>https://wenqi-cui.github.io/publication/few-shot/index-1/</link>
       <pubDate>Wed, 21 Jul 2021 08:30:41 +0000</pubDate>
       <guid>https://wenqi-cui.github.io/publication/few-shot/index-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reinforcement Learning for Optimal Frequency Control: A Lyapunov Approach</title>
-      <link>https://wenqi-cui.github.io/publication/example/</link>
-      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://wenqi-cui.github.io/publication/example/</guid>
       <description></description>
     </item>
     

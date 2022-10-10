@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Control | Wenqi Cui</title>
+    <link>https://wenqi-cui.github.io/tag/control/</link>
+      <atom:link href="https://wenqi-cui.github.io/tag/control/index.xml" rel="self" type="application/rss+xml" />
+    <description>Control</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 08:00:48 +0000</lastBuildDate>
+    <image>
+      <url>https://wenqi-cui.github.io/media/icon_hud58c95a75c7ebfda2aff7ad5a2db624a_15115_512x512_fill_lanczos_center_3.png</url>
+      <title>Control</title>
+      <link>https://wenqi-cui.github.io/tag/control/</link>
+    </image>
+    
+    <item>
+      <title>Structured Neural-PI Control for Networked Systems: Stability and Steady-State Optimality Guarantees</title>
+      <link>https://wenqi-cui.github.io/project/neural-pi/</link>
+      <pubDate>Wed, 01 Jun 2022 08:00:48 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/project/neural-pi/</guid>
+      <description>&lt;p&gt;We study the control of networked systems with the goal of optimizing both transient and steady-state performances while providing stability guarantees. Linear Proportional-Integral (PI) controllers are almost always used in practice, but the linear parameterization of the controller fundamentally limits its performance. Learning-based approaches are becoming popular in designing nonlinear controllers, but the lack of stability guarantees makes the learned controllers difficult to apply in practical applications.&lt;/p&gt;
+&lt;p&gt;This paper bridges the gap between neural network-based controller design and the need for stability guarantees. Using equilibrium-independent passivity, a property present in a wide range of physical systems, we propose structured neural-PI controllers that have provable guarantees on stability and zero steady-state output tracking error. If communication between neighbours is available, we further extend the controller to distributedly achieve optimal resource allocation at the steady state. We explicitly characterize the stability conditions and engineer neural networks that satisfy them by design. Experiments on traffic and power networks demonstrate that the proposed approach can improve both transient and steady-state performances compared to existing state-of-the-art, while unstructured neural networks lead to unstable behaviors.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning for Optimal Frequency Control - A Lyapunov Approach</title>
+      <link>https://wenqi-cui.github.io/project/example/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/project/example/</guid>
+      <description>&lt;p&gt;The increase in penetration of inverter-based resources provides us with more flexibility in frequency regulation compared to conventional linear droop controllers. Using their power electronic interfaces, inverter-based resources can realize almost arbitrary responses to frequency changes. Reinforcement learning (RL) has emerged as a popular method to design these nonlinear controllers to optimize a host of objective functions.&lt;/p&gt;
+&lt;p&gt;The key challenge with RL-based approaches is how to enforce the constraint that the learned controller should be stabilizing. In addition, training these controllers is nontrivial because of the time-coupled dynamics of power systems. In this paper, we propose to explicitly engineer the structure of neural network-based controllers such that they guarantee system stability by design. This is done by constraining the network structures using a well-known Lyapunov function. A recurrent RL architecture is used to efficiently train the controllers. The resulting controllers only use local information and outperform linear droop as well as controllers trained using existing state-of-the-art learning approaches.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Equilibrium-Independent Stability Analysis for Distribution Systems with Lossy Transmission Lines</title>
+      <link>https://wenqi-cui.github.io/project/lossy-lcss/</link>
+      <pubDate>Fri, 06 May 2022 08:00:48 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/project/lossy-lcss/</guid>
+      <description>&lt;p&gt;Power distribution systems are becoming much more active with increased penetration of distributed energy resources. Because of the intermittent nature of these resources, the stability of distribution systems under large disturbances and time-varying conditions is becoming a key issue in practical operations. Because the transmission lines in distribution systems are lossy, standard approaches in power system stability analysis do not readily apply and the understanding of transient stability remains open even for simplified models.&lt;/p&gt;
+&lt;p&gt;This paper proposes a novel equilibrium-independent transient stability analysis of distribution systems with lossy lines. We certify network-level stability by breaking the network into subsystems, and by looking at the equilibrium-independent passivity of each subsystem, the network stability is certified through a diagonal stability property of the interconnection matrix. This allows the analysis scale to large networked systems with time-varying equilibria. The proposed method gracefully extrapolates between lossless and lossy systems, and provides a simple yet effective approach to optimize control efforts with guaranteed stability regions. Case studies verify that the proposed method is much less conservative than existing approaches and also scales to large systems.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

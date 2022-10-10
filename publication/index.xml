@@ -5,12 +5,44 @@
     <link>https://wenqi-cui.github.io/publication/</link>
       <atom:link href="https://wenqi-cui.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 08:30:41 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 08:30:41 +0000</lastBuildDate>
     <image>
       <url>https://wenqi-cui.github.io/media/icon_hud58c95a75c7ebfda2aff7ad5a2db624a_15115_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://wenqi-cui.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Structured Neural-PI Control for Networked Systems: Stability and Steady-State Optimality Guarantees</title>
+      <link>https://wenqi-cui.github.io/publication/neural-pi/index-1/</link>
+      <pubDate>Wed, 01 Jun 2022 08:30:41 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/neural-pi/index-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning for Optimal Frequency Control: A Lyapunov Approach</title>
+      <link>https://wenqi-cui.github.io/publication/example/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equilibrium-Independent Stability Analysis for Distribution Systems with Lossy Transmission Lines</title>
+      <link>https://wenqi-cui.github.io/publication/lossy-lcss/index-1/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/lossy-lcss/index-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stable Reinforcement Learning for Optimal Frequency Control: A Distributed Averaging-Based Integral Approach</title>
+      <link>https://wenqi-cui.github.io/publication/secondary-frequency/index-1/</link>
+      <pubDate>Sun, 01 May 2022 08:30:41 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/secondary-frequency/index-1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Predicting Power System Dynamics and Transients: A Frequency Domain Approach</title>
@@ -49,14 +81,6 @@
       <link>https://wenqi-cui.github.io/publication/lyapunov-regularized-reinforcement-learning-for-power-system-transient-stability/index-1/</link>
       <pubDate>Fri, 05 Mar 2021 08:30:41 +0000</pubDate>
       <guid>https://wenqi-cui.github.io/publication/lyapunov-regularized-reinforcement-learning-for-power-system-transient-stability/index-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reinforcement Learning for Optimal Frequency Control: A Lyapunov Approach</title>
-      <link>https://wenqi-cui.github.io/publication/example/</link>
-      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://wenqi-cui.github.io/publication/example/</guid>
       <description></description>
     </item>
     
