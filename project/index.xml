@@ -5,12 +5,23 @@
     <link>https://wenqi-cui.github.io/project/</link>
       <atom:link href="https://wenqi-cui.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 08:00:48 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 08:00:48 +0000</lastBuildDate>
     <image>
       <url>https://wenqi-cui.github.io/media/icon_hud58c95a75c7ebfda2aff7ad5a2db624a_15115_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://wenqi-cui.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Efficient Reinforcement Learning Through Trajectory Generation</title>
+      <link>https://wenqi-cui.github.io/project/trajgen-linear/</link>
+      <pubDate>Thu, 01 Dec 2022 08:00:48 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/project/trajgen-linear/</guid>
+      <description>&lt;p&gt;A key barrier to using reinforcement learning (RL) in many real-world applications is the requirement of a large number of system interactions to learn a good control policy. Off-policy and Offline RL methods have been proposed to reduce the number of interactions with the physical environment by learning control policies from historical data. 
+However, their performances suffer from the lack of exploration and the distributional shifts in trajectories once controllers are updated. Moreover, most RL methods require that all states are directly observed, which is difficult to be attained in many settings.&lt;/p&gt;
+&lt;p&gt;To overcome these challenges, we propose a trajectory generation algorithm, which adaptively generates new trajectories as if the system is being operated and explored under the updated control policies. Motivated by the fundamental lemma for linear systems, assuming sufficient excitation, we generate trajectories from linear combinations of historical trajectories. For linear feedback control, we prove that the algorithm generates trajectories with the exact distribution as if they are sampled from the real system using the updated control policy. In particular, the algorithm extends to systems where the states are not directly observed. Experiments show that the proposed method significantly reduces the number of sampled data needed for RL algorithms.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Structured Neural-PI Control for Networked Systems: Stability and Steady-State Optimality Guarantees</title>
