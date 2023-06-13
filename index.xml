@@ -5,7 +5,7 @@
     <link>https://wenqi-cui.github.io/</link>
       <atom:link href="https://wenqi-cui.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Wenqi Cui</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 08:30:41 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 08:30:41 +0000</lastBuildDate>
     <image>
       <url>https://wenqi-cui.github.io/media/icon_hud58c95a75c7ebfda2aff7ad5a2db624a_15115_512x512_fill_lanczos_center_3.png</url>
       <title>Wenqi Cui</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Structured Neural-PI Control for Networked Systems: Stability and Steady-State Optimality Guarantees</title>
+      <link>https://wenqi-cui.github.io/publication/neural-pi/index-1/</link>
+      <pubDate>Thu, 01 Jun 2023 08:30:41 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/neural-pi/index-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Efficient Reinforcement Learning Through Trajectory Generation</title>
       <link>https://wenqi-cui.github.io/publication/trajgen-linear/index-1/</link>
-      <pubDate>Thu, 01 Dec 2022 08:30:41 +0000</pubDate>
+      <pubDate>Mon, 01 May 2023 08:30:41 +0000</pubDate>
       <guid>https://wenqi-cui.github.io/publication/trajgen-linear/index-1/</guid>
       <description></description>
     </item>
@@ -29,14 +37,6 @@
 However, their performances suffer from the lack of exploration and the distributional shifts in trajectories once controllers are updated. Moreover, most RL methods require that all states are directly observed, which is difficult to be attained in many settings.&lt;/p&gt;
 &lt;p&gt;To overcome these challenges, we propose a trajectory generation algorithm, which adaptively generates new trajectories as if the system is being operated and explored under the updated control policies. Motivated by the fundamental lemma for linear systems, assuming sufficient excitation, we generate trajectories from linear combinations of historical trajectories. For linear feedback control, we prove that the algorithm generates trajectories with the exact distribution as if they are sampled from the real system using the updated control policy. In particular, the algorithm extends to systems where the states are not directly observed. Experiments show that the proposed method significantly reduces the number of sampled data needed for RL algorithms.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Structured Neural-PI Control for Networked Systems: Stability and Steady-State Optimality Guarantees</title>
-      <link>https://wenqi-cui.github.io/publication/neural-pi/index-1/</link>
-      <pubDate>Wed, 01 Jun 2022 08:30:41 +0000</pubDate>
-      <guid>https://wenqi-cui.github.io/publication/neural-pi/index-1/</guid>
-      <description></description>
     </item>
     
     <item>
