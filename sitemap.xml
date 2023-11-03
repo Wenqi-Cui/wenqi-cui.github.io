@@ -2,55 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wenqi-cui.github.io/publication-type/3/</loc>
-    <lastmod>2023-06-01T08:30:41+00:00</lastmod>
+    <loc>https://wenqi-cui.github.io/publication-type/1/</loc>
+    <lastmod>2023-11-01T08:30:41+00:00</lastmod>
   </url><url>
     <loc>https://wenqi-cui.github.io/publication_types/</loc>
-    <lastmod>2023-06-01T08:30:41+00:00</lastmod>
+    <lastmod>2023-11-01T08:30:41+00:00</lastmod>
   </url><url>
     <loc>https://wenqi-cui.github.io/publication/</loc>
-    <lastmod>2023-06-01T08:30:41+00:00</lastmod>
+    <lastmod>2023-11-01T08:30:41+00:00</lastmod>
   </url><url>
-    <loc>https://wenqi-cui.github.io/publication/neural-pi/index-1/</loc>
-    <lastmod>2023-06-01T08:30:41+00:00</lastmod>
+    <loc>https://wenqi-cui.github.io/publication/neural-pi-scnn/index-1/</loc>
+    <lastmod>2023-11-01T08:30:41+00:00</lastmod>
   </url><url>
     <loc>https://wenqi-cui.github.io/</loc>
-    <lastmod>2023-06-01T08:30:41+00:00</lastmod>
+    <lastmod>2023-11-01T08:30:41+00:00</lastmod>
   </url><url>
-    <loc>https://wenqi-cui.github.io/publication-type/1/</loc>
-    <lastmod>2023-05-01T08:30:41+00:00</lastmod>
+    <loc>https://wenqi-cui.github.io/tag/control/</loc>
+    <lastmod>2023-11-01T08:00:48+00:00</lastmod>
+  </url><url>
+    <loc>https://wenqi-cui.github.io/tag/energy-systems/</loc>
+    <lastmod>2023-11-01T08:00:48+00:00</lastmod>
+  </url><url>
+    <loc>https://wenqi-cui.github.io/tag/machine-learning/</loc>
+    <lastmod>2023-11-01T08:00:48+00:00</lastmod>
+  </url><url>
+    <loc>https://wenqi-cui.github.io/project/</loc>
+    <lastmod>2023-11-01T08:00:48+00:00</lastmod>
+  </url><url>
+    <loc>https://wenqi-cui.github.io/project/neural-pi-scnn/</loc>
+    <lastmod>2023-11-01T08:00:48+00:00</lastmod>
+  </url><url>
+    <loc>https://wenqi-cui.github.io/tags/</loc>
+    <lastmod>2023-11-01T08:00:48+00:00</lastmod>
+  </url><url>
+    <loc>https://wenqi-cui.github.io/publication-type/2/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wenqi-cui.github.io/publication/example/</loc>
+    <lastmod>2023-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wenqi-cui.github.io/publication/trajgen-linear/index-1/</loc>
     <lastmod>2023-05-01T08:30:41+00:00</lastmod>
   </url><url>
-    <loc>https://wenqi-cui.github.io/tag/control/</loc>
-    <lastmod>2022-12-01T08:00:48+00:00</lastmod>
-  </url><url>
     <loc>https://wenqi-cui.github.io/project/trajgen-linear/</loc>
     <lastmod>2022-12-01T08:00:48+00:00</lastmod>
   </url><url>
-    <loc>https://wenqi-cui.github.io/tag/energy-systems/</loc>
-    <lastmod>2022-12-01T08:00:48+00:00</lastmod>
-  </url><url>
-    <loc>https://wenqi-cui.github.io/tag/machine-learning/</loc>
-    <lastmod>2022-12-01T08:00:48+00:00</lastmod>
-  </url><url>
-    <loc>https://wenqi-cui.github.io/project/</loc>
-    <lastmod>2022-12-01T08:00:48+00:00</lastmod>
-  </url><url>
-    <loc>https://wenqi-cui.github.io/tags/</loc>
-    <lastmod>2022-12-01T08:00:48+00:00</lastmod>
-  </url><url>
-    <loc>https://wenqi-cui.github.io/project/neural-pi/</loc>
-    <lastmod>2022-06-01T08:00:48+00:00</lastmod>
-  </url><url>
-    <loc>https://wenqi-cui.github.io/publication-type/2/</loc>
-    <lastmod>2022-05-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://wenqi-cui.github.io/project/example/</loc>
-    <lastmod>2022-05-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wenqi-cui.github.io/publication/example/</loc>
     <lastmod>2022-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wenqi-cui.github.io/project/lossy-lcss/</loc>
@@ -62,11 +59,14 @@
     <loc>https://wenqi-cui.github.io/publication/secondary-frequency/index-1/</loc>
     <lastmod>2022-05-01T08:30:41+00:00</lastmod>
   </url><url>
-    <loc>https://wenqi-cui.github.io/publication/fourier-transient/index-1/</loc>
-    <lastmod>2021-11-01T08:30:41+00:00</lastmod>
+    <loc>https://wenqi-cui.github.io/publication-type/3/</loc>
+    <lastmod>2022-01-01T08:30:41+00:00</lastmod>
   </url><url>
-    <loc>https://wenqi-cui.github.io/project/fourier-transient/</loc>
-    <lastmod>2021-11-01T08:00:48+00:00</lastmod>
+    <loc>https://wenqi-cui.github.io/publication/neural-pi/index-1/</loc>
+    <lastmod>2022-01-01T08:30:41+00:00</lastmod>
+  </url><url>
+    <loc>https://wenqi-cui.github.io/project/neural-pi/</loc>
+    <lastmod>2022-01-01T08:00:48+00:00</lastmod>
   </url><url>
     <loc>https://wenqi-cui.github.io/publication/safe-rl-voltage-pscc/index-1/</loc>
     <lastmod>2021-10-03T08:30:41+00:00</lastmod>
@@ -94,6 +94,9 @@
   </url><url>
     <loc>https://wenqi-cui.github.io/project/lyapunov-regularized-reinforcement-learning-for-power-system-transient-stability/</loc>
     <lastmod>2021-05-06T08:00:48+00:00</lastmod>
+  </url><url>
+    <loc>https://wenqi-cui.github.io/publication/fourier-transient/index-1/</loc>
+    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wenqi-cui.github.io/project/greem-seattle/</loc>
     <lastmod>2021-03-18T08:00:48+00:00</lastmod>
@@ -141,5 +144,7 @@
     <lastmod>2017-12-02T06:32:34+00:00</lastmod>
   </url><url>
     <loc>https://wenqi-cui.github.io/admin/</loc>
+  </url><url>
+    <loc>https://wenqi-cui.github.io/project/fourier-transient/</loc>
   </url>
 </urlset>

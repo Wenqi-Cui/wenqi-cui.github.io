@@ -5,12 +5,21 @@
     <link>https://wenqi-cui.github.io/tag/machine-learning/</link>
       <atom:link href="https://wenqi-cui.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 08:00:48 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 08:00:48 +0000</lastBuildDate>
     <image>
       <url>https://wenqi-cui.github.io/media/icon_hud58c95a75c7ebfda2aff7ad5a2db624a_15115_512x512_fill_lanczos_center_3.png</url>
       <title>Machine Learning</title>
       <link>https://wenqi-cui.github.io/tag/machine-learning/</link>
     </image>
+    
+    <item>
+      <title>Structured Neural-PI Control with End-to-End Stability and Output Tracking Guarantees</title>
+      <link>https://wenqi-cui.github.io/project/neural-pi-scnn/</link>
+      <pubDate>Wed, 01 Nov 2023 08:00:48 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/project/neural-pi-scnn/</guid>
+      <description>&lt;p&gt;We study the optimal control of multiple-input and multiple-output dynamical systems via the design of neural network-based controllers with stability and output tracking guarantees. While neural network-based nonlinear controllers have shown superior performance in various applications, their lack of provable guarantees has restricted their adoption in high-stake real-world applications. This paper bridges the gap between neural network-based controllers and the need for stabilization guarantees. Using equilibrium-independent passivity, a property present in a wide range of physical systems, we propose neural Proportional-Integral (PI) controllers that have provable guarantees of stability and zero steady-state output tracking error. The key structure is the strict monotonicity on proportional and integral terms, which is parameterized as gradients of strictly convex neural networks (SCNN). We construct SCNN with tunable softplus-β activations, which yields universal approximation capability and is also useful in incorporating communication constraints. In addition, the SCNNs serve as Lyapunov functions, giving us end-to-end performance guarantees. Experiments on traffic and power networks demonstrate that the proposed approach improves both transient and steady-state performances, while unstructured neural networks lead to unstable behaviors.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Efficient Reinforcement Learning Through Trajectory Generation</title>
@@ -20,16 +29,6 @@
       <description>&lt;p&gt;A key barrier to using reinforcement learning (RL) in many real-world applications is the requirement of a large number of system interactions to learn a good control policy. Off-policy and Offline RL methods have been proposed to reduce the number of interactions with the physical environment by learning control policies from historical data. 
 However, their performances suffer from the lack of exploration and the distributional shifts in trajectories once controllers are updated. Moreover, most RL methods require that all states are directly observed, which is difficult to be attained in many settings.&lt;/p&gt;
 &lt;p&gt;To overcome these challenges, we propose a trajectory generation algorithm, which adaptively generates new trajectories as if the system is being operated and explored under the updated control policies. Motivated by the fundamental lemma for linear systems, assuming sufficient excitation, we generate trajectories from linear combinations of historical trajectories. For linear feedback control, we prove that the algorithm generates trajectories with the exact distribution as if they are sampled from the real system using the updated control policy. In particular, the algorithm extends to systems where the states are not directly observed. Experiments show that the proposed method significantly reduces the number of sampled data needed for RL algorithms.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Structured Neural-PI Control for Networked Systems: Stability and Steady-State Optimality Guarantees</title>
-      <link>https://wenqi-cui.github.io/project/neural-pi/</link>
-      <pubDate>Wed, 01 Jun 2022 08:00:48 +0000</pubDate>
-      <guid>https://wenqi-cui.github.io/project/neural-pi/</guid>
-      <description>&lt;p&gt;We study the control of networked systems with the goal of optimizing both transient and steady-state performances while providing stability guarantees. Linear Proportional-Integral (PI) controllers are almost always used in practice, but the linear parameterization of the controller fundamentally limits its performance. Learning-based approaches are becoming popular in designing nonlinear controllers, but the lack of stability guarantees makes the learned controllers difficult to apply in practical applications.&lt;/p&gt;
-&lt;p&gt;This paper bridges the gap between neural network-based controller design and the need for stability guarantees. Using equilibrium-independent passivity, a property present in a wide range of physical systems, we propose structured neural-PI controllers that have provable guarantees on stability and zero steady-state output tracking error. If communication between neighbours is available, we further extend the controller to distributedly achieve optimal resource allocation at the steady state. We explicitly characterize the stability conditions and engineer neural networks that satisfy them by design. Experiments on traffic and power networks demonstrate that the proposed approach can improve both transient and steady-state performances compared to existing state-of-the-art, while unstructured neural networks lead to unstable behaviors.&lt;/p&gt;
 </description>
     </item>
     
@@ -44,12 +43,12 @@ However, their performances suffer from the lack of exploration and the distribu
     </item>
     
     <item>
-      <title>Predicting Power System Dynamics and Transients: A Frequency Domain Approach</title>
-      <link>https://wenqi-cui.github.io/project/fourier-transient/</link>
-      <pubDate>Mon, 01 Nov 2021 08:00:48 +0000</pubDate>
-      <guid>https://wenqi-cui.github.io/project/fourier-transient/</guid>
-      <description>&lt;p&gt;The dynamics of power grids are governed by a large number of nonlinear ordinary differential equations (ODEs). To safely operate the system, operators need to check that the states described by this set of ODEs stay within prescribed limits after various faults. Limited by the size and stiffness of the ODEs, current numerical integration techniques are often too slow to be useful in real-time or large-scale resource allocation problems. In addition, detailed system parameters are often not exactly known. Machine learning approaches have been proposed to reduce the computational efforts, but existing methods generally suffer from overfitting and failures to predict unstable behaviors.&lt;/p&gt;
-&lt;p&gt;This paper proposes a novel framework for power system dynamic predictions by learning in the frequency domain. The intuition is that although the system behavior is complex in the time domain, there are relatively few dominate modes in the frequency domain. Therefore, we learn to predict by constructing neural networks with Fourier transform and filtering layers. System topology and fault information are encoded by taking a multi-dimensional Fourier transform, allowing us to leverage the fact that the trajectories are sparse both in time and spatial (across different buses) frequencies. We show that the proposed approach does not need detailed system parameters, speeds up prediction computations by orders of magnitude and is highly accurate for different fault types.&lt;/p&gt;
+      <title>Structured Neural-PI Control for Networked Systems: Stability and Steady-State Optimality Guarantees</title>
+      <link>https://wenqi-cui.github.io/project/neural-pi/</link>
+      <pubDate>Sat, 01 Jan 2022 08:00:48 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/project/neural-pi/</guid>
+      <description>&lt;p&gt;We study the control of networked systems with the goal of optimizing both transient and steady-state performances while providing stability guarantees. Linear Proportional-Integral (PI) controllers are almost always used in practice, but the linear parameterization of the controller fundamentally limits its performance. Learning-based approaches are becoming popular in designing nonlinear controllers, but the lack of stability guarantees makes the learned controllers difficult to apply in practical applications.&lt;/p&gt;
+&lt;p&gt;This paper bridges the gap between neural network-based controller design and the need for stability guarantees. Using equilibrium-independent passivity, a property present in a wide range of physical systems, we propose structured neural-PI controllers that have provable guarantees on stability and zero steady-state output tracking error. If communication between neighbours is available, we further extend the controller to distributedly achieve optimal resource allocation at the steady state. We explicitly characterize the stability conditions and engineer neural networks that satisfy them by design. Experiments on traffic and power networks demonstrate that the proposed approach can improve both transient and steady-state performances compared to existing state-of-the-art, while unstructured neural networks lead to unstable behaviors.&lt;/p&gt;
 </description>
     </item>
     
@@ -100,6 +99,16 @@ as well as outputs of a regression model seeking to predict future traffic patte
 (codes are publicly available &lt;a href=&#34;https://github.com/Greening-Seattle/Visualization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;). 
 I am responsible for implementing machine learning framework for predicting Traffic Trends using Tensorflow 2.0,
 and visualizing the model in TensorBoard.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predicting Power System Dynamics and Transients: A Frequency Domain Approach</title>
+      <link>https://wenqi-cui.github.io/project/fourier-transient/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/project/fourier-transient/</guid>
+      <description>&lt;p&gt;The dynamics of power grids are governed by a large number of nonlinear ordinary differential equations (ODEs). To safely operate the system, operators need to check that the states described by this set of ODEs stay within prescribed limits after various faults. Limited by the size and stiffness of the ODEs, current numerical integration techniques are often too slow to be useful in real-time or large-scale resource allocation problems. In addition, detailed system parameters are often not exactly known. Machine learning approaches have been proposed to reduce the computational efforts, but existing methods generally suffer from overfitting and failures to predict unstable behaviors.&lt;/p&gt;
+&lt;p&gt;This paper proposes a novel framework for power system dynamic predictions by learning in the frequency domain. The intuition is that although the system behavior is complex in the time domain, there are relatively few dominate modes in the frequency domain. Therefore, we learn to predict by constructing neural networks with Fourier transform and filtering layers. System topology and fault information are encoded by taking a multi-dimensional Fourier transform, allowing us to leverage the fact that the trajectories are sparse both in time and spatial (across different buses) frequencies. We show that the proposed approach does not need detailed system parameters, speeds up prediction computations by orders of magnitude and is highly accurate for different fault types.&lt;/p&gt;
 </description>
     </item>
     

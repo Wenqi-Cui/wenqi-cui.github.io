@@ -5,12 +5,20 @@
     <link>https://wenqi-cui.github.io/publication-type/1/</link>
       <atom:link href="https://wenqi-cui.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 08:30:41 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 08:30:41 +0000</lastBuildDate>
     <image>
       <url>https://wenqi-cui.github.io/media/icon_hud58c95a75c7ebfda2aff7ad5a2db624a_15115_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://wenqi-cui.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Structured Neural-PI Control with End-to-End Stability and Output Tracking Guarantees</title>
+      <link>https://wenqi-cui.github.io/publication/neural-pi-scnn/index-1/</link>
+      <pubDate>Wed, 01 Nov 2023 08:30:41 +0000</pubDate>
+      <guid>https://wenqi-cui.github.io/publication/neural-pi-scnn/index-1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Efficient Reinforcement Learning Through Trajectory Generation</title>
